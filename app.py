@@ -1,5 +1,5 @@
 import streamlit as st
-from wordcloud import WordCloud
+from word_cloud import WordCloud
 import matplotlib.pyplot as plt
 import assemblyai
 
